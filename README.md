@@ -2,5 +2,5 @@
 
 # CRUD de clientes com PHP.
 
-Banco de dados comk id, nome, email, data.
-Salvar, Atualizar, deletar.
+Banco de dados com id, nome, email, data.
+Opções de salvar, atualizar, deletar.
